@@ -15,7 +15,7 @@ CREATE TABLE language (
    programmers INT
 );
 ```
-Es una base de datos simple, pero que nos permitira hacer un CRUD y asi aprender a manejar MySQL con Nodejs
+Es una base de datos simple, pero que nos permitira hacer un CRUD y asi entender a manejar MySQL con Nodejs.
 
 ## Environment variables
 
@@ -44,3 +44,7 @@ Es una base de datos simple, pero que nos permitira hacer un CRUD y asi aprender
 - @babel/core
 - @babel/node
 - @babel/prest-env
+
+## Creditos
+Curso de UskoKruM2010
+video: https://www.youtube.com/watch?v=dkic3MU3858&t=2353s
